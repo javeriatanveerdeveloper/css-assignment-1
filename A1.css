@@ -1,0 +1,30 @@
+h1{
+    border:0%;
+    margin-top: 0px;
+    padding:100px 200px ;
+    text-align: center;
+    background-color: #F26B0F;
+    font-size: 70px;
+   
+}
+*{
+    background-color: #FCC737;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+   
+    color: rgb(198, 10, 10);
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color:#5CB338;
+    
+}
+table{
+    width: 25%;
+    margin: auto;
+}
+h3{
+    font-weight: 0px;
+}
